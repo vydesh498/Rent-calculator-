@@ -1,5 +1,5 @@
 # Rent-calculator-
-rent calculator in p#ython 
+rent calculator in python 
 
 ## Inputs we need from the user
 # Total rent
